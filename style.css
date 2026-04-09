@@ -1,0 +1,19 @@
+body{
+    background-color: #292930;
+    color: white;
+    
+}
+
+button{
+    border: none;
+    border-radius: 5px;
+    font-size: 17px;
+}
+
+h1 {
+    color: yellow;
+}
+
+h2 {
+    color: yellow;
+}
